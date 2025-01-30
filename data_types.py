@@ -1,6 +1,7 @@
-# List
-
-a = [1,2,3,4,5]
-print(a)
-
-print(a[0])
+#Basic datatypes
+name="Arun"#string
+age=19#integer
+balance=82.1#float
+hascreditcard=True#boolean
+print(name,age,balance,hascreditcard)
+#Keyword should not be an indentifier,all identifiers are case sensitive.
