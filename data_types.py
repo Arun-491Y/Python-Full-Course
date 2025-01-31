@@ -10,3 +10,4 @@ name,age = "Arun",19 #To enter multi datatypes in a single line
 'Indexing'
 print(name[0])#display the index of the string
 print(name[3])
+'Python can support dynamic type programming'
